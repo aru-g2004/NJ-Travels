@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "626868690309",
+    "firebase_url": "https://njtravels-f5dbb-default-rtdb.firebaseio.com",
+    "project_id": "njtravels-f5dbb",
+    "storage_bucket": "njtravels-f5dbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626868690309:android:78cfca6d8c4a7ee86738ec",
+        "android_client_info": {
+          "package_name": "com.example.nj_travels_arushi_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626868690309-eqgr43pcnkfp82hc0as8t96sle5g9j7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7-CSmW9HbKbtytWXMY1a9b2nVJ35YRI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626868690309-eqgr43pcnkfp82hc0as8t96sle5g9j7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626868690309:android:7343405176c12f7a6738ec",
+        "android_client_info": {
+          "package_name": "com.example.njtravels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626868690309-gkbeuafjitdnmv5dlvqob9e8oivqgn3f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.njtravels",
+            "certificate_hash": "4dde1b82982d1cf511fcb6fccd9c3956ffa9a5c6"
+          }
+        },
+        {
+          "client_id": "626868690309-eqgr43pcnkfp82hc0as8t96sle5g9j7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7-CSmW9HbKbtytWXMY1a9b2nVJ35YRI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626868690309-eqgr43pcnkfp82hc0as8t96sle5g9j7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
