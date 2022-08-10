@@ -1,16 +1,3 @@
 # nj_travels_arushi_2
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+NJ Picks is a data-based app that can use your selected preferences to give you a customized top 10 list of places to visit in New Jersey. Our app provides users with an easy-to-use interface enabling them to generate an individualized top 10 list of places to go in New Jersey-based on their preferences.
