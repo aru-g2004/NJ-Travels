@@ -5,7 +5,7 @@ NJ Picks is a data-based app that can use your selected preferences to give you 
 # Checkout:
 
 NJ Travels Pitch
-https://www.youtube.com/watch?v=W-a1hM8brCU
+[![NJ Travels Pitch](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=W-a1hM8brCU)
 
 NJ Travel Demo Video
-https://www.youtube.com/watch?v=lPa6cm8u2pc
+[![NJ Travels Demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=lPa6cm8u2pc)
